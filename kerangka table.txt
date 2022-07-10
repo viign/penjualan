@@ -1,0 +1,8 @@
+Tabel Van Java
+
+1. user			 : iduser, username, password
+2. produk		 : idproduk, namaproduk, deskripsi, harga, stok
+3. pesanan		 : idorder, tanggal, iduser, idpelanggan
+4. detailpesanan : iddetailorder, idorder, idproduk, qty
+5. masuk		 : idmasuk, idproduk, qty, tanggal
+6. pelanggan	 : idpelanggan,namapelanggan,notelp,alamat
